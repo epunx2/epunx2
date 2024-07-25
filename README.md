@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Eric Chrobak
-
-Building tools, processes, applications, etc to help business grow. I work primarily in Ruby, JavaScript, HTML, CSS, and Zoho Deluge. 
+I Build tools, processes, applications, etc to help business grow. I work primarily in Ruby, JavaScript, HTML, CSS, and Zoho Deluge. 
 
 Currently:
 - CRM Engineer at Vaspian. We provide communications tools to businesses. Our tech suite is great and our customer support is even better.
