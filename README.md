@@ -4,7 +4,7 @@ I build tools, processes, applications, etc to help business grow. I work primar
 
 Currently:
 - CRM Engineer at Vaspian. We provide communications tools to businesses. Our tech suite is great and our customer support is even better.
-- I build the systems our team uses to run the business. This includes custom apps and levraging the Zoho Suite of software
+- I build the systems our team uses to run the business. This includes custom apps and leveraging the Zoho Suite of software
 - Current problem how to generate more leads
 
 A little more about me:
